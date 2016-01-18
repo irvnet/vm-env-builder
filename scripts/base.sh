@@ -4,10 +4,10 @@ sudo apt-get update
 sudo apt-get -y upgrade
 
 # install ubuntu desktop
-echo "INSTALLING UBUNTU DESKTOP..."
-sudo apt-get install -y ubuntu-desktop
-sudo apt-get update -y
-sudo apt-get upgrade -y
+# echo "INSTALLING UBUNTU DESKTOP..."
+# sudo apt-get install -y ubuntu-desktop
+# sudo apt-get update -y
+# sudo apt-get upgrade -y
 
 # install vmware tools
 echo "INSTALLING VMWARE TOOLS..."
